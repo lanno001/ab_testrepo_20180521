@@ -1,0 +1,7 @@
+authors="B. Honeydew"
+organism="human TOMM40 gene"
+basecaller="Albacore 2.2.7"
+kit="SQK-LSK108"
+flowcell="FLO-MIN106"
+repository_name=git@github.com:lanno001/ab_testrepo_20180521.git
+fork_address=git@github.com:lanno001/assembler_benchmark_new_submissions
